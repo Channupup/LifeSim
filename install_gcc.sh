@@ -1,3 +1,4 @@
+# this is a comment
 sudo apt-get remove gcc g++
 sudo apt-get install software-properties-common
 sudo add-apt-repository --yes ppa:ubuntu-toolchain-r/test
